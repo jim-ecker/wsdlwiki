@@ -1,0 +1,60 @@
+= Research =
+== Plan ==
+* Develop metrics needed for trust based task allocation
+* Evaluate prior works to compare against
+* Decide on simulation environment
+* Design experiments wrt simulation environment, metrics, and prior works
+** Consider hardware available
+*** Personal MacBook Pro M1 Max (10 core CPU/32 core GPU)
+*** Desktop 18 core Intel Xeon with dual Nvidia Titan RTX Gpus
+*** Lab laptop Lambda Labs Tensorbook with Nvidia 3090
+== Publication ==
+* Data Resiliency via Trust-Based Task Allocation
+** AAAI 2024
+*** These are speculative based on this year's dates
+*** July 4, 2023: AAAI-23 web site open for author registration
+*** July 11, 2023: AAAI-23 web site open for paper submission
+*** August 8, 2023: Abstracts due at 11:59 PM UTC-12
+*** August 15, 2023: Full papers due at 11:59 PM UTC-12
+*** August 18, 2023: Supplementary material and code due by 11:59 PM UTC-12
+*** September 16, 2023: Registration, abstracts and full papers for NeurIPS fast track submissions due by 11:59 PM UTC-12
+*** September 21, 2023: Supplementary material and code for NeurIPS fast track submissions due by 11:59 PM UTC-12
+*** September 27, 2023: Notification of Phase 1 rejections
+*** October 20-23, 2023: Author feedback window
+*** November 18, 2023: Notification of final acceptance or rejection
+*** December 1, 2023: Submission of paper preprints for inclusion in electronic conference materials
+*** February 7 – February 14, 2023: AAAI-23
+** MDPI Sensors Journal (I know journals are not target but seems like worth a try)
+*** Ongoing submissions
+** INFOCOM International Conference on Computer Communications 2024
+*** These are speculative based on this year's dates
+*** Monday, July 25, 2023 (11:59pm EDT): Abstract Due
+*** Monday, August 1, 2023 (11:59pm EDT): Full Paper Due
+*** Friday, December 2, 2023: Notification of Acceptance:
+*** Friday, January 13, 2023 (11:59pm EST): Camera Ready Deadline
+** UAI 2023 Conference on Uncertainty in Artificial Intelligence
+*** 17 February 2023 (23:59 Anywhere on Earth, AoE): Paper submission deadline
+*** 11-20 April 2023: Author response and discussion period
+*** 8 May 2023: Author notification
+
+= Social Media/Blog =
+== Grow Social Media Presence ==
+=== Twitter ===
+* Engage more with WSDL people
+* Post more about topics of interest/research
+** PhD work
+** Papers related to work
+** Deep RL 
+** Large Language Models
+=== TikTok ===
+* These are tweets in video form, make video based on tweets from above
+* Space/Technology content
+=== Youtube ===
+* These are long form tiktoks, do deep dives
+* Always wanted to do basic tutorials on ML and programming ML
+=== Twitch ===
+* Livestream DeepRL models training on games
+== Blog Posts ==
+* Detailing metrics needed for trust based task allocation
+* Survey of prior works
+* Tutorial on simulation environment/experiments
